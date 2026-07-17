@@ -3,4 +3,4 @@ https://image-hosting-8pb.pages.dev/ADD GITHUB IMAGE LINK HERE
 
 
 For images in folders:
-https://image-hosting-8pb.pages.dev/tequila-images/menu.png
+https://image-hosting-8pb.pages.dev/TequiLaLa%20images/Sliders.png
